@@ -1,0 +1,23 @@
+{
+    "name": "serfhos/lumesse-talent-link",
+    "description": "PHP SOAP - Lumesse: TalentLink integration",
+    "type": "library",
+
+    "keywords": ["Serfhos", "Benjamin Serfhos", "Lumesse", "TalentLink"],
+    "require": {
+        "php-soap": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "Serfhos\\LumesseTalentLink\\": "Classes/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "Benjamin Serfhos",
+            "email": "benjamin@serfhos.com",
+            "homepage": "http://serfhos.com"
+        }
+    ]
+}
