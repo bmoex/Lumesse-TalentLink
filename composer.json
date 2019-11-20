@@ -5,7 +5,7 @@
 
     "keywords": ["Serfhos", "Benjamin Serfhos", "Lumesse", "TalentLink"],
     "require": {
-        "php-soap": "*",
+        "php-soap": "*"
     },
     "autoload": {
         "psr-4": {
